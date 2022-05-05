@@ -1,0 +1,36 @@
+  .footer
+  {
+  overflow: hidden;
+  background-color: black;
+  position: sticky;
+  top: 100%;
+  padding: 5px 10px;
+  }
+  .h1
+  {
+    color: white;
+    font-size: 20px;
+  }
+  .a
+  {
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+  }
+
+  .b
+  {
+    color: greenyellow;
+    text-decoration: none;
+    padding: 0px 5px;
+  }
+
+  .b:hover
+  {
+    color: white;
+  }
+
+  .a:hover
+  {
+    color: greenyellow;
+  }
