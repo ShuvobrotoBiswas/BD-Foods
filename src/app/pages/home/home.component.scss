@@ -7,14 +7,18 @@
 }
 .content
 {
-    top: 30%;
-    left: 20%;
+    top: 38%;
+    left: 27%;
     position: absolute;
+}
+.content h1:hover
+{
+    color: greenyellow;
 }
 .content h1
 {
     color: #fff;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: bold;
 
 }
@@ -23,8 +27,10 @@
     text-decoration: none;
     background-color: #fff;
     color: green;
-    padding: 15px 20px;
     border-radius: 5px;
+    top: 50%;
+    left: 30%;
+    position: absolute;
 }
 
 .content a:hover
@@ -51,6 +57,11 @@
     font-size: 20px;
     font-style: italic;
     color: #fff;
+}
+
+.stepBox p:hover
+{
+    color: greenyellow;
 }
 .highlight
 {
