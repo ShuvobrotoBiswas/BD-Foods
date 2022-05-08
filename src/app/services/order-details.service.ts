@@ -10,59 +10,59 @@ export class OrderDetailsService {
   foodDetails = [
     {
       id:1,
-      foodName:"Paneer Grilled Sandwich",
-      foodDetails:"Pan-fried masala paneer.",
+      foodName:"Grilled Cheese Sandwich",
+      foodDetails:"Pan-fried masala cheese.",
       foodPrice:200,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wzfq7djolqxgdhghebbq"
+      foodImg:"https://media.istockphoto.com/photos/sandwiches-salmon-sanduiche-italiano-de-atum-picture-id1152937667?b=1&k=20&m=1152937667&s=170667a&w=0&h=CNVKi7r0o58gDVPFCROcVYD4Faa2w4hqTlpSTrk0hcU="
     },
     {
       id:2,
-      foodName:"Veggie Supreme",
+      foodName:"Ultra Meet Pizza",
       foodDetails:"Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese",
       foodPrice:369,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/sgbobtbxlojbtdnr2m5k"
+      foodImg:"https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395__480.jpg"
     },
     {
       id:3,
-      foodName:"Paneer Burger",
-      foodDetails:"panner",
+      foodName:"Cheese Burger",
+      foodDetails:"Best cheese burger",
       foodPrice:149,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/xbeqlsck3p0kei53to7k"
+      foodImg:"https://img.freepik.com/free-photo/big-hamburger-with-double-beef-french-fries_252907-8.jpg?w=2000"
     },
     {
       id:4,
-      foodName:"Veg Masala Roll In Naan",
+      foodName:"Veg Masala Roll In Shawarma",
       foodDetails:"A homely mix of mashed potato and veggies, seasoned with Indian spices. A filling sure to take you back to mom's kitchen.",
       foodPrice:140,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/l2ng6gtge30sqaafqng7"
+      foodImg:"https://media.istockphoto.com/photos/burrito-and-shawarma-wraps-with-beef-and-pork-vegetables-on-wooden-picture-id1079279000?k=20&m=1079279000&s=612x612&w=0&h=3r70as8Ksz_8hiJZ55XMgxYrhaq2F0PeJM_yIPjvlnI="
     },
     {
       id:5,
       foodName:"Indulgence Brownie",
       foodDetails:"(Eggless) Indulge in richly decadent chocolate brownie crafted with love & topped with bitter-sweet chocolate that provides ultra-rich chocolate experience.",
       foodPrice:105,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/iqlmbg1hlyc0dspdyzzv"
+      foodImg:"https://insanelygoodrecipes.com/wp-content/uploads/2020/10/Homemade-Slutty-Brownies-1024x536.png"
     },
     {
       id:6,
       foodName:"Oreo Cheesecake Ice Cream",
       foodDetails:"Oreo ice cream",
       foodPrice:219,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wtj8esaeslvlscv8glj6"
+      foodImg:"https://loveinmyoven.com/wp-content/uploads/2021/05/no-churn-chocolate-oreo-ice-cream-2.jpg"
     },
     {
       id:7,
-      foodName:"Paneer Grilled Sandwich",
-      foodDetails:"Pan-fried masala paneer.",
-      foodPrice:200,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wzfq7djolqxgdhghebbq"
+      foodName:"Chui Jhall Mutton",
+      foodDetails:"A great bangali traditional food from Khulna.",
+      foodPrice:500,
+      foodImg:"https://petukcouple.com/wp-content/uploads/2021/11/Beef-Chui-Jhal-Recipe.jpeg"
     },
     {
       id:8,
-      foodName:"Veggie Supreme",
-      foodDetails:"Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese",
+      foodName:"Kacchi Biryani Family Platter",
+      foodDetails:"Kaachi Biryani with egg and potato and your choice of meat (serves 4)Additional Chicken Roast",
       foodPrice:369,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/sgbobtbxlojbtdnr2m5k"
+      foodImg:"https://www.chawkscatering.com/uploads/1/2/5/2/125230917/s173764616108572188_p183_i3_w1400.png"
     },
   ]
 }
