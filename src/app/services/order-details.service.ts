@@ -64,5 +64,61 @@ export class OrderDetailsService {
       foodPrice:369,
       foodImg:"https://www.chawkscatering.com/uploads/1/2/5/2/125230917/s173764616108572188_p183_i3_w1400.png"
     },
+    {
+      id:9,
+      foodName:"Chicken Fry",
+      foodDetails:"Best KFC Test in Chicken Fry",
+      foodPrice:"120",
+      foodImg:"https://res.cloudinary.com/hsxfx8igq/image/upload/t_16x9_recipe_image,f_auto/v1624462106/vfjhjd6tfu0trzzbvcab.jpg",
+    },
+    {
+      id:10,
+      foodName:"Kacchi Biryani Family Platter",
+      foodDetails:"Kaachi Biryani with egg and potato and your choice of meat (serves 4)Additional Chicken Roast",
+      foodPrice:369,
+      foodImg:"https://www.chawkscatering.com/uploads/1/2/5/2/125230917/s173764616108572188_p183_i3_w1400.png"
+    },
+    {
+      id:11,
+      foodName:"Onions Mashroom",
+      foodDetails:"Combine sautéed mushrooms and onions with the slight acidity of lemon juice and white wine for a cupple",
+      foodPrice:"200",
+      foodImg:"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-01-Sauteed-Mushrooms-and-Onions%2FKitchn_JanKitchn_Jan4555-1",
+    },
+    {
+      id:12,
+      foodName:"",
+      foodDetails:"",
+      foodPrice:"",
+      foodImg:"",
+    },
+    {
+      id:13,
+      foodName:"",
+      foodDetails:"",
+      foodPrice:"",
+      foodImg:"",
+    },
+    {
+      id:14,
+      foodName:"",
+      foodDetails:"",
+      foodPrice:"",
+      foodImg:"",
+    },
+    {
+      id:15,
+      foodName:"",
+      foodDetails:"",
+      foodPrice:"",
+      foodImg:"",
+    },
+    {
+      id:16,
+      foodName:"",
+      foodDetails:"",
+      foodPrice:"",
+      foodImg:"",
+    },
   ]
 }
