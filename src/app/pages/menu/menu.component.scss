@@ -98,6 +98,16 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.borderstyle
+{
+  border: 6px double red;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  // border: 10px solid transparent;
+  // padding: 1px;
+  // border-image: url(../../../assets/img/border.png) 100 stretch;
+}
 @media screen and (max-width:600px) {
 form
 {

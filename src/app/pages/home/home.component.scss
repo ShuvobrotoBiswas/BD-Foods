@@ -88,3 +88,13 @@
     margin-top: 20px;
     font-weight: bold;
 }
+
+.borderstyle
+{
+  border: 6px double red;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  // border: 10px solid transparent;
+  // padding: 1px;
+  // border-image: url(../../../assets/img/border.png) 100 stretch;
+}
