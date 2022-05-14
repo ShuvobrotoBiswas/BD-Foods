@@ -68,7 +68,7 @@
     color: green;
     font-weight: bold;
     font-style: italic;
-    text-decoration: underline;
+    // text-decoration: underline;
 }
 
 .foodbox
@@ -88,6 +88,13 @@
     margin-top: 20px;
     font-weight: bold;
 }
+
+.rating
+{
+ color: purple;
+ text-align: right;
+}
+
 
 .borderstyle
 {
