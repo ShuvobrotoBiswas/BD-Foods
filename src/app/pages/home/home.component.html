@@ -35,10 +35,11 @@
 <!-- foodbox  -->
 <div class="container mt-4 mb-4">
   <h1 routerLink="menu" class="text-center">Popular <span class="highlight"> Items</span></h1>
+  <div class="myeffect"></div>
   <div class="row">
       <div class="col-lg-3 mt-3" *ngFor="let fd of foodData;index as i">
           <div class="foodbox" *ngIf="i<=15">
-              <img class="borderstyle" src="{{fd.foodImg}}" />
+              <img class="borderstyle " src="{{fd.foodImg}}" [routerLink]="['/menu',fd.id]" />
               <h1>{{fd.foodName}}</h1>
               <p>{{fd.foodPrice | currency:'BDT '}}</p>
               <h1 class="rating"><i class="bi bi-star-fill"></i> {{fd.foodRating}}/10</h1>

@@ -105,3 +105,29 @@
   // padding: 1px;
   // border-image: url(../../../assets/img/border.png) 100 stretch;
 }
+
+.myeffect {
+  width: 100px;
+  height: 100px;
+  background-image: url('https://m.economictimes.com/thumb/msid-89885004,width-1200,height-900,resizemode-4,imgsize-137412/healthy-food_think.jpg') ;
+  transition: width 8s, height 5s;
+}
+
+.myeffect:hover {
+  width: 1300px;
+  height: 800px;
+}
+
+.borderstyle {
+  transition: transform .2s;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.borderstyle:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+

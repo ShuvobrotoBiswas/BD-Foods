@@ -7,7 +7,6 @@
         <p>{{fd.foodDetails}}</p>
         <p>{{fd.foodPrice | currency:'BDT '}}</p>
         <h1 class="rating"><i class="bi bi-star-fill"></i> {{fd.foodRating}}/10</h1>
-        <br>
         <a class="buybtn" [routerLink]="['/menu',fd.id]" >Buy Now <i class="bi bi-bag-check"></i> </a>
       </div>
     </div>
